@@ -21,6 +21,10 @@ function johnLennonFacts (arr) {
   var index = arr.length - 1
   
   while (index >= 0) {
-    
+    arr[index] += "!!!";
   }
+  
+  index -= 1
+  
+  return arr;
 }
