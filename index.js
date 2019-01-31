@@ -17,7 +17,7 @@ const facts = [
   "He hated the sound of his own voice"
 ]
 
-function johnLennonFacts (arr) {
+function johnLennonFacts(arr) {
   var index = arr.length - 1
   
   while (index >= 0) {
