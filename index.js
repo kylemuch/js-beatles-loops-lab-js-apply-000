@@ -17,14 +17,14 @@ function theBeatlesPlay(musArr, instArr) {
 //   "He hated the sound of his own voice"
 // ]
 
-// function johnLennonFacts(arr) {
-//   var index = arr.length - 1
+function johnLennonFacts(arr) {
+  var index = arr.length - 1
   
-//   while (index >= 0) {
-//     arr[index] += "!!!";
-//   }
+  while (index >= 0) {
+    arr[index] += "!!!";
+  }
   
-//   index -= 1
+  index -= 1
   
-//   return arr;
-// }
+  return arr;
+}
