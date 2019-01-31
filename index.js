@@ -32,7 +32,7 @@ function iLoveTheBeatles(int){
   var arr = [];
   
   do {
-    if (int < 15) {
+    if (int <= 15) {
     arr.push("I love the Beatles!")
     }
   }
