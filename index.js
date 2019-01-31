@@ -35,5 +35,5 @@ function iLoveTheBeatles(int){
     arr.push("I love the Beatles!")
   }
   
-  while
+  while (arr.length < int)
 }
