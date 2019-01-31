@@ -33,10 +33,8 @@ function iLoveTheBeatles(int){
   
   
   do {
-    if (int < 15) {
-    int += 1  
     arr.push("I love the Beatles!")
-    }
+    int += 1  
   }
   
   while (int < 15)
