@@ -25,6 +25,5 @@ function johnLennonFacts(arr) {
     index -= 1
   }
   
-  
   return arr;
 }
