@@ -36,4 +36,6 @@ function iLoveTheBeatles(int){
   }
   
   while (arr.length < int)
+  
+  return arr;
 }
