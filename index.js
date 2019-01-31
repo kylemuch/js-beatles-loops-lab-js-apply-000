@@ -39,7 +39,7 @@ function iLoveTheBeatles(int){
     }
   }
   
-  while (arr.length < (15 - int) )
+  while (int < 15)
   
   return arr;
 }
