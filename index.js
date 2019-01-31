@@ -9,3 +9,11 @@ function theBeatlesPlay(musArr, instArr) {
   return emptyArr;
   
 }
+
+const facts = [
+  
+]
+
+function johnLennonFacts () {
+  
+}
